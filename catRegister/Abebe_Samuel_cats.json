@@ -1,0 +1,58 @@
+[
+    {
+        "number": 4,
+        "name": "Zebra",
+        "breed": "couchPurrer",
+        "length": 35,
+        "yearOfBirth": 1995
+    },
+    {
+        "number": 5,
+        "name": "Fluffy",
+        "breed": "yellowbreed",
+        "length": 33,
+        "yearOfBirth": 2005
+    },
+    {
+        "number": 1,
+        "name": "Lion II",
+        "breed": "sillycat",
+        "length": 30,
+        "yearOfBirth": 2017
+    },
+    {
+        "number": 3,
+        "name": "Hairball",
+        "breed": "domesticus",
+        "length": 32,
+        "yearOfBirth": 2011
+    },
+    {
+        "number": 6,
+        "name": "Fatzo",
+        "breed": "alley cat",
+        "length": 40,
+        "yearOfBirth": 2000
+    },
+    {
+        "number": 32,
+        "name": "the game of throne",
+        "breed": "sdf",
+        "length": 32,
+        "yearOfBirth": 11
+    },
+    {
+        "number": 101,
+        "name": "dsf",
+        "breed": "adsf",
+        "length": 234,
+        "yearOfBirth": 234
+    },
+    {
+        "number": 14,
+        "name": "Samuel",
+        "breed": "straight",
+        "length": 1,
+        "yearOfBirth": 17
+    }
+]

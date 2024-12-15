@@ -1,0 +1,16 @@
+{
+    "port":3000,
+    "host":"localhost",
+    "storageEngine":{
+        "folder":"jsonStorageEngine",
+        "dataStorageFile":"dataStorageLayer.js"
+    },
+    "storage":{
+        "folder":"catRegister",
+        "storageConfigFile":"storageConfig.json"
+    },
+    "library":{
+        "folder":"library",
+        "requestHandler":"libraryForRequesthandling.js"
+    }
+}
